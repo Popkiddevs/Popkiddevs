@@ -37,7 +37,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Popkiddevs/github-readme-stats"><img alt="keithkeizzah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Popkiddevs&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/Popkiddevs/github-readme-stats"><img alt="popkid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Popkiddevs&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eabdalmufid&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
@@ -74,4 +74,4 @@
 
 
 
-[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=Popkiddevs&show_icons=true&theme=radical)](https://github.com/Popkiddevs)
+[!popkids GitHub stats](https://github-readme-stats.vercel.app/api?username=Popkiddevs&show_icons=true&theme=radical)](https://github.com/Popkiddevs)
