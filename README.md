@@ -74,4 +74,4 @@
 
 
 
-[!popkids GitHub stats](https://github-readme-stats.vercel.app/api?username=Popkiddevs&show_icons=true&theme=radical)](https://github.com/Popkiddevs)
+![popkids GitHub stats](https://github-readme-stats.vercel.app/api?username=Popkiddevs&show_icons=true&theme=radical)](https://github.com/Popkiddevs)
