@@ -9,7 +9,7 @@
 <h4 align="center">𝐈 𝐚𝐦 𝐏𝐨𝐩𝐤𝐢𝐝 𝐓𝐞𝐜𝐡 𝐩𝐚𝐥.</h4>
 <br>
 <p align="center"> <img
-			   src="https://komarev.com/ghpvc/?username=Popkiddevs&label=Profile%20views&color=0e75b6&style=plastic" alt="Popkiddevs"</> </p>
+			   src="https://komarev.com/ghpvc/?username=Popkiddevs&label=Profile%20views&color=0e75b6&style=plastic" alt="Popkiddevs" </p>
 
 
 
